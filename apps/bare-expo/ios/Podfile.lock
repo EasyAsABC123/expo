@@ -3750,7 +3750,7 @@ DEPENDENCIES:
   - glog (from `build/rndeps-facades/glog`)
   - "hermes-engine (from `../../../node_modules/.pnpm/react-native@0.89.0-rc.0_@babel+core@7.29.7_@react-native+metro-config@0.87.1_@babel+co_310d2979ea03eaf6e0ecf2880e274a17/node_modules/react-native/sdks/hermes-engine/hermes-engine.podspec`)"
   - JestMockSchema (from `../modules/jest-mock-schema/ios`)
-  - "lottie-react-native (from `../../../node_modules/.pnpm/lottie-react-native@7.5.0_@lottiefiles+dotlottie-react@0.13.5_react@19.3.0__react-nativ_b5af8785be52b578875bef2f0444b116/node_modules/lottie-react-native`)"
+  - "lottie-react-native (from `../../../node_modules/.pnpm/lottie-react-native@7.5.0_patch_hash=c573205561bc30560581ae4e627193e6d0262af6e34fdf831e_19e9e574eeb9e10192ef39d0f713ce35/node_modules/lottie-react-native`)"
   - RCT-Folly (from `build/rndeps-facades/RCT-Folly`)
   - RCTDeprecation (from `build/rncore-facades/RCTDeprecation`)
   - RCTRequired (from `build/rncore-facades/RCTRequired`)
@@ -3845,7 +3845,7 @@ DEPENDENCIES:
   - "RNGestureHandler (from `../../../node_modules/.pnpm/react-native-gesture-handler@3.3.0_react-native@0.89.0-rc.0_@babel+core@7.29.7_@react-n_9b2bf461018d009493ece3c62b47e413/node_modules/react-native-gesture-handler`)"
   - "RNReanimated (from `../../../node_modules/.pnpm/react-native-reanimated@4.7.1_patch_hash=0f735c4b33f9af576a7af1a9cffcea5220cbbc671ec2f1_e143c263cb35e524a027df0ec56f9448/node_modules/react-native-reanimated`)"
   - "RNScreens (from `../../../node_modules/.pnpm/react-native-screens@4.30.1_react-native@0.89.0-rc.0_@babel+core@7.29.7_@react-native+m_0dd3c1115e6fc9c637efb488786339b9/node_modules/react-native-screens`)"
-  - "RNSVG (from `../../../node_modules/.pnpm/react-native-svg@15.16.0_react-native@0.89.0-rc.0_@babel+core@7.29.7_@react-native+metr_c787837a81d143c333135809aa4da703/node_modules/react-native-svg`)"
+  - "RNSVG (from `../../../node_modules/.pnpm/react-native-svg@15.16.0_patch_hash=6c3709b428cc60d401e19bf69ec038b94700e8920776b0cc427_b3b3cb086d4c9ec703fcb0c627d7ac6b/node_modules/react-native-svg`)"
   - "RNWorklets (from `../../../node_modules/.pnpm/react-native-worklets@0.13.0_patch_hash=0e7ca08ddb565252ea4479e4bb493c5c09756297ba0ec88_a04bb4552abcc452545b7c3ee0a17789/node_modules/react-native-worklets`)"
   - SocketRocket (from `build/rndeps-facades/SocketRocket`)
   - TestExpoUi (from `../modules/test-expo-ui/ios`)
@@ -4158,7 +4158,7 @@ EXTERNAL SOURCES:
     inhibit_warnings: false
     :path: "../modules/jest-mock-schema/ios"
   lottie-react-native:
-    :path: "../../../node_modules/.pnpm/lottie-react-native@7.5.0_@lottiefiles+dotlottie-react@0.13.5_react@19.3.0__react-nativ_b5af8785be52b578875bef2f0444b116/node_modules/lottie-react-native"
+    :path: "../../../node_modules/.pnpm/lottie-react-native@7.5.0_patch_hash=c573205561bc30560581ae4e627193e6d0262af6e34fdf831e_19e9e574eeb9e10192ef39d0f713ce35/node_modules/lottie-react-native"
   RCT-Folly:
     :path: build/rndeps-facades/RCT-Folly
   RCTDeprecation:
@@ -4346,7 +4346,7 @@ EXTERNAL SOURCES:
   RNScreens:
     :path: "../../../node_modules/.pnpm/react-native-screens@4.30.1_react-native@0.89.0-rc.0_@babel+core@7.29.7_@react-native+m_0dd3c1115e6fc9c637efb488786339b9/node_modules/react-native-screens"
   RNSVG:
-    :path: "../../../node_modules/.pnpm/react-native-svg@15.16.0_react-native@0.89.0-rc.0_@babel+core@7.29.7_@react-native+metr_c787837a81d143c333135809aa4da703/node_modules/react-native-svg"
+    :path: "../../../node_modules/.pnpm/react-native-svg@15.16.0_patch_hash=6c3709b428cc60d401e19bf69ec038b94700e8920776b0cc427_b3b3cb086d4c9ec703fcb0c627d7ac6b/node_modules/react-native-svg"
   RNWorklets:
     :path: "../../../node_modules/.pnpm/react-native-worklets@0.13.0_patch_hash=0e7ca08ddb565252ea4479e4bb493c5c09756297ba0ec88_a04bb4552abcc452545b7c3ee0a17789/node_modules/react-native-worklets"
   SocketRocket:
